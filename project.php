@@ -8,7 +8,7 @@
 </head>
 <body>
     <nav>
-        <input clas="search-box" type="search" placeholder="Search" id="search-boxID" name="search-boxName">
+        <input class="search-box" type="search" placeholder="Search" id="search-boxID" name="search-boxName">
         <ul class="nav-list">
             <li><a href="">Blog</a></li>
             <li><a href="">Category</a></li>

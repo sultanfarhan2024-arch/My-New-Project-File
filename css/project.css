@@ -11,15 +11,38 @@ nav{
     align-items: center;
     justify-content: space-between;
     padding: 12px 25px;
+    background-color: #00008b85;
 }
 
 .nav-list{
     list-style-type: none;
     display: flex;
-    gap: 25px;
+    gap: 15px;
     align-items: center;
+    height: 100%;
 }
 
 .nav-list a{
     text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: black;
+    padding: 4px 8px;
 }
+
+.search-box{
+    padding: 8px 14px;
+    border-radius: 14px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 36%;
+    border: none;
+    box-shadow: 0 0 2px black;
+    outline: none;
+}
+
+.nav-list a:hover{
+    background-color: white;
+    color: #00008b85;
+}
+
