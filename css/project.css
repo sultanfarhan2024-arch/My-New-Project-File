@@ -27,22 +27,26 @@ nav{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
     color: black;
-    padding: 4px 8px;
+    padding: 12px 8px;
+    border-radius: 5px;
 }
 
 .search-box{
     padding: 8px 14px;
     border-radius: 14px;
-    font-size: 18px;
+    font-size: 22px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 36%;
     border: none;
     box-shadow: 0 0 2px black;
     outline: none;
+    color: rgb(54, 53, 53);
 }
 
 .nav-list a:hover{
     background-color: white;
     color: #00008b85;
 }
+
+
 
